@@ -12,3 +12,5 @@ int main()
     printArray(mamat,6);
     return 0;
 }
+
+abc
